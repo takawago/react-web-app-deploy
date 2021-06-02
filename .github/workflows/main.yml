@@ -1,7 +1,7 @@
 name: CD
 
 env:
-  AZURE_WEBAPP_NAME: kemurareactapp
+  AZURE_WEBAPP_NAME: takawagoreactapp
   AZURE_WEBAPP_PACKAGE_PATH: "."
 
 on:
